@@ -1,0 +1,3 @@
+vamos criar um projeto localmente chamado 'lirio-dos-vales' e criar o mesmo repositorio na minha conta github, utilizando a ferramenta 'gh'. o projeto é de um webapp que, a partir de arquivos .med em um diretorio, identifique a seção [CONDUTA] e, a partir do conteudo dela, crie e exiba uma lista de tarefas.
+
+
