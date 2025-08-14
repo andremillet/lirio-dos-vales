@@ -1,0 +1,133 @@
+[
+  {
+    "paciente": "FATIMA DE JESUS OLIVEIRA SANTOS",
+    "condutas": [
+      "AGUARDAR FREQUENCIA DE EVENTOS E DOCUMENTAR"
+    ]
+  },
+  {
+    "paciente": "MARIA VALDENICE MOURA CABRAL ROZA",
+    "condutas": [
+      "+DIPIRONA 500MG 8/8 HORAS 3 DIAS;",
+      "!LAB;",
+      "!CONSIDERAR AJUSTE DE METFORMINA APOS LAB;"
+    ]
+  },
+  {
+    "paciente": "ZILDA SIMPLICIO",
+    "condutas": [
+      "+IBUPROFENO 300MG 8/8 HORAS 3 DIAS;",
+      "!DESMAME FENOBARBITAL"
+    ]
+  },
+  {
+    "paciente": "CLAUDIO ADELINO DA SILVA",
+    "condutas": [
+      "!INFO[!HPP, !RX]",
+      "+METFORMINA 500MG [LIBERACAO PROLONGAGA, 2 COMPRIMIDOS] JANTAR;",
+      "!LAB[3M]",
+      "CONSIDERAR ++QUETIAPINA"
+    ]
+  },
+  {
+    "paciente": "JOSIAS FELIX DE NASCIMENTO",
+    "condutas": [
+      "!INFO[!RX, !HPP]",
+      "!CLONAZEPAM > 2,5MG/ML [8 GOTAS] NOITE;",
+      "!LAB"
+    ]
+  },
+  {
+    "paciente": "GENILDA DOS SANTOS SA",
+    "condutas": [
+      "+DIPIRONA 500MG 6/6 HORAS SOS;",
+      "ORIENTAÇÕES SOBRE REPOUSO E HIDRATACAO;",
+      "!INFO[!HPP, !MED]"
+    ]
+  },
+  {
+    "paciente": "MARIA JOSE MENDONCA",
+    "condutas": [
+      "!LAB",
+      "!EDA",
+      "!PESQUISA DE SANGUE OCULTO NAS FEZES"
+    ]
+  },
+  {
+    "paciente": "SERGIO DE ALMEIDA LIMA",
+    "condutas": [
+      "!LAB",
+      "+SULFADIAZINA DE PRATA [CREME][APLICAR FINA CAMADA] 12/12 HORAS[7D];",
+      "!INFO[!HPP]"
+    ]
+  },
+  {
+    "paciente": "MARIA DAS GRACAS LOURENCO",
+    "condutas": [
+      "!LAB",
+      "!ECG",
+      "!INFO[!ECG]"
+    ]
+  },
+  {
+    "paciente": "GENILSON BARRETO",
+    "condutas": [
+      "!CURVA_TENSIONAL",
+      "--BROMAZEPAM 3MG [1/2 COMPRIMIDO] NOITE >> !DESMAME",
+      "--MIRTAZAPINA 15MG [1/2 COMPRIMIDO] NOITE"
+    ]
+  },
+  {
+    "paciente": "IVAN CERZAR BARBOSA DE OLIVEIRA",
+    "condutas": [
+      "COMPRESSA LOCAL;",
+      "SUSPENSAO TEMPORARIA DE AAS;"
+    ]
+  },
+  {
+    "paciente": "MARIA DA PENHA VIEIRA FERNANDES",
+    "condutas": [
+      "ORIENTACOES SOBRE HIDRATAÇÃO",
+      "!LAB",
+      "!USG TIREOIDE"
+    ]
+  },
+  {
+    "paciente": "EDSON FONSECA",
+    "condutas": [
+      "!TC_CRANIO;",
+      "!LAB;",
+      "!DESMAME MEMANTINA;",
+      "!FENITOINA 100MG NOITE;",
+      "!ENMG;",
+      "!CONSIDERAR DESMAME DE DONEPEZILA;",
+      "!EEG;"
+    ]
+  },
+  {
+    "paciente": "WILMA FERREIRA DA SILVA",
+    "condutas": [
+      "!DOPPLER_CV",
+      "!ECG",
+      "ORIENTACOES SOBRE MANIPULACAO",
+      "!CONSIDERAR HOLTER24H"
+    ]
+  },
+  {
+    "paciente": "ANDREI DA COSTA ALVES",
+    "condutas": [
+      "!LAB",
+      "!RM_CRANIO",
+      "+CLONAZEPAM 2,5MG/ML [8 GOTAS] NOITE[2S];"
+    ]
+  },
+  {
+    "paciente": "MARLENI RIBEIRO",
+    "condutas": [
+      "--FUROSEMIDA 40MG;",
+      "AGUARDO !RX_TORAX, !ECOTT;",
+      "+CLENIL HFA SPRAY 50MCG [1 JATO] 12/12 HORAS;",
+      "ENCAMINHO PARA ACOMPANHAMENTO PARA OTORRINOLARINGOLOGIA;"
+    ]
+  }
+]
