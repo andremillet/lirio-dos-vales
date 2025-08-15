@@ -33,7 +33,12 @@ def extract_conducts():
                             break
                         # Add non-empty lines to the list
                         if stripped_line:
-                            conducts.append(stripped_line)
+                            if stripped_line.startswith('++'):
+                                conducts.append(f"DOSE AJUSTADA: {stripped_line[2:].strip()}")
+                            elif stripped_line.startswith('+'):
+                                conducts.append(f"ADICIONAR {stripped_line[1:].strip()} À LISTA DE MEDICAÇÕES")
+                            else:
+                                conducts.append(stripped_line)
             
             if conducts:
                 all_conducts.append({
